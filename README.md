@@ -1,1 +1,1 @@
-# lldb_win64_with_python
+# LLDB Win64 build with Python support
